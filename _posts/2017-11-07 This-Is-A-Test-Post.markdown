@@ -5,6 +5,3 @@ date:   2017-11-07 12:57:31 +0000
 categories: jekyll update
 ---
 This is a test post!
-Let's test code insertion:
-{% highlight html %}<h1>This Is A Test Post</h1> <p>Did it work?</p>{% endhighlight %} /n
-Hello
