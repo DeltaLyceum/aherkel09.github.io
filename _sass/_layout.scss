@@ -11,7 +11,7 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 32px;
     font-weight: 300;
     line-height: 56px;
     letter-spacing: -1px;
@@ -172,7 +172,7 @@
 }
 
 .page-heading {
-    font-size: 32px;
+    font-size: 28px;
 }
 
 .post-list {
@@ -209,7 +209,7 @@
     line-height: 1;
 
     @include media-query($on-laptop) {
-        font-size: 3px;
+        font-size: 36px;
     }
 }
 
