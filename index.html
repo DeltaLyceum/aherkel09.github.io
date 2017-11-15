@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+{% for post in site.posts %}
+    {% if post.external_url %}
+        <dd class="{{ post.external_site }}">
+          [{{ post.title }}]({{ post.external_url }})
+        </dd>
+    {% else %}
+        <dd>[{{ post.title }}]({{ post.url }})</dd>
+    {% endif %}
+{% endfor %}
 
 <div class="home">
 
@@ -17,16 +26,6 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-  
-  {% for post in site.posts %}
-    {% if post.external_url %}
-        <dd class="{{ post.external_site }}">
-          [{{ post.title }}]({{ post.external_url }})
-        </dd>
-      {% else %}
-        <dd>[{{ post.title }}]({{ post.url }})</dd>
-      {% endif %}
-  {% endfor %}
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
