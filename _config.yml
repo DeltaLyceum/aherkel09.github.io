@@ -8,7 +8,7 @@
 # Site settings
 timezone: America/New_York
 title: Δ-Lyceum
-email: aherkel09@gmail.com
+email: aherkel@delta-lyceum.com
 description: > # this means to ignore newlines until "baseurl:"
   Learn. Build. Change.
 baseurl: "" # the subpath of your site, e.g. /blog
