@@ -11,4 +11,4 @@ permalink: /about/
 
 I invite you to learn new things. I encourage you to build the future you envision. I challenge you to change everything.
 
-- <i>Avery Herkel, Creator</i>
+-<i>Avery Herkel, Creator</i>
