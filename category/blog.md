@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Posts Go Here
-category: blog
-permalink: /blog/
+title: Articles
+category: articles
+permalink: /articles/
 ---
