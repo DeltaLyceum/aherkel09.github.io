@@ -3,7 +3,7 @@ layout: page
 title: About
 external_url: https://en.wikipedia.org/wiki/Lyceum_(Classical)
 external_site: wikipedia
-permalink: /about/
+permalink: /about
 ---
 Δ-Lyceum bears the namesake of the [Lyceum]({{page.external_url}}), the temple which hosted Aristotle's Peripatetic School of Philosophy. Under its covered walkways, philosophical and scientific inquiries were once conducted. Endeavoring to carry the torch of discovery in a new domain, I have prepended the Greek letter Δ as a symbol of growth and change.
 
