@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /purchase
+permalink: /purchasePUlSAr
 ---
 
 Display purchase options here.
