@@ -2,7 +2,6 @@
 layout: page
 permalink: /purchasePUlSAr
 ---
-<img src="/assets/IMG_0102.JPG" alt="Image">
 
 Display purchase options here.
 
